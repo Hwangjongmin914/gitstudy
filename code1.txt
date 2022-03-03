@@ -4,3 +4,4 @@ git init, git add, git commit -m "????", git diff
 git shortlog: commit change log
 git pull gogo
 git reset HEAD~1 // 뒤로 돌아간다~ --soft, --mixed, --hard(수정한거 다날라감)
+git revert HEAD~? // 뒤로 돌아가는데 새로운 커밋만들면서
