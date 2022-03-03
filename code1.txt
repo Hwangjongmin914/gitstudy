@@ -3,3 +3,4 @@ mememe
 git init, git add, git commit -m "????", git diff
 git shortlog: commit change log
 git pull gogo
+git reset HEAD~1 // 뒤로 돌아간다~
